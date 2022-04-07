@@ -4,3 +4,14 @@
 ## 📦 패키지
 - Nextjs
 - Redux
+## 💻 실행 방법
+**NPM**
+```
+npm i
+npm run dev
+```
+**Yarn**
+```
+yarn
+yarn dev
+```
